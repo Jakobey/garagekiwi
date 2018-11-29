@@ -1,3 +1,2 @@
 # garagekiwi
-This is Luka from VSCode
-Mwahahahaha
+This is Jacob and I deleted your comment MWAHAHAHAHAHA
