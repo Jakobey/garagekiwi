@@ -1,4 +1,5 @@
 # garagekiwi
+<<<<<<< HEAD
 This is Jacob and I deleted your comment MWAHAHAHAHAHA
 Hi Luka
 Hi Luka
@@ -80,3 +81,44 @@ Hi Luka
 Hi Luka
 Hi LukaHi Luka
 Hi Luka
+=======
+This is Luka and I deleted your comment MWAHAHAHAHAHA
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+Hi Jacob
+>>>>>>> 5e98651c9cbe3277810224c45511db9e0ffa4f9f
